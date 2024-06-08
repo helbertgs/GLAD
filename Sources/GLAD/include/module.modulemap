@@ -1,0 +1,6 @@
+module GLAD [system] [extern_c] {
+    header "glad.h"
+    header "khrplatform.h"
+    
+    export *
+}
